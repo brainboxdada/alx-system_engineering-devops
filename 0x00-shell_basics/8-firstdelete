@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -i /tmp/my_first_delete
+rm -i /tmp/my_first_directory/betty: cannot open /tmp/my_first_directory/betty
